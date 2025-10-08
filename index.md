@@ -14,7 +14,7 @@
 
 ### Projects 
 
-[Project 1 Title](/sample_page)
+[![Parks South of OKC](images/southokcparks.png)](https://arcg.is/1COC5H2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
