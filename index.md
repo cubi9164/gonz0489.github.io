@@ -15,7 +15,6 @@
 ### Projects 
 
 Parks South of OKC[![Parks South of OKC](images/southokcparks.png)](https://arcg.is/1COC5H2)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
