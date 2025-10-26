@@ -6,7 +6,7 @@
 
 - [Where in PNW-Washington is suitable for nesting sites?](https://storymaps.arcgis.com/stories/adb4a08bece6402687a8dda56e28ac95)
 - [Campus Tree Collector Survey](https://survey123.arcgis.com/share/50d8d1fe9b5147f8b13d10e61668a63d?portalUrl=https://uok.maps.arcgis.com)
-- [LST Time Series and Emissivity from MODIS ](https://code.earthengine.google.com/#)
+- [LST Time Series and Emissivity from MODIS ](https://claudiagonzalez-0489.projects.earthengine.app/view/lst-time-series-and-emissivity-from-modis)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
